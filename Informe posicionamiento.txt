@@ -1,0 +1,15 @@
+Informe posicionamiento
+
+En este informe repasare todo lo que he ido añadiendo a mi pagina web.
+Asi como datos, palabras clave, enlaces, etc...
+
+He incluido una estructura básica de HTML.
+Usando !
+He incluido <meta name= description>
+y también <meta name= keywords>
+Con la palabras claves deportivos, coches, caros.
+El <title> es Hola mundo, es temporal.
+Un <h1> y dos <h2>
+Para completar he usado <p> que dentro llevan el texto de lorem.
+También lleva una etiqueta <img> y en el src el enlace relativo a su ruta.
+y lleva un width de 50 px.
