@@ -1,7 +1,9 @@
 body{background-color: rgb(40, 69, 68);
-    background-image:url(/imagenes/backgroun\ car.webp)
+    background-image:url(/imagenes/backgroun\ car.webp);
+      margin: 100%;
 
 }
 h1{text-decoration: underline red dashed;
+
 
 }
