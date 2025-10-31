@@ -15,7 +15,8 @@ a{
 
 
 h1{
-   border: 10px solid black;
+   border: 20px solid black;
    background-color: black;
    color: crimson;
+   font-size: 60px;
 }
