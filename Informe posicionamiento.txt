@@ -1,5 +1,6 @@
 Informe posicionamiento
 (Pasar todo a Word bien explicado)
+Informe actualizado en Word
 
 En este informe repasare todo lo que he ido añadiendo a mi pagina web.
 Asi como datos, palabras clave, enlaces, etc...
@@ -18,6 +19,8 @@ y lleva un width de 50 px.
 Ahora he añadido un CSS.
 con <link rel=stylesheet href=estilosindex.css>
 Y he puesto un background color blanchedalmond en el body para comprobar que funciona.
+
+He reestructurado la pagina entera cambiando el tema
 
 icono favicon
 (cambio de pagina)
