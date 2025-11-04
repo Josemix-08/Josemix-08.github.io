@@ -13,3 +13,20 @@ Un <h1> y dos <h2>
 Para completar he usado <p> que dentro llevan el texto de lorem.
 También lleva una etiqueta <img> y en el src el enlace relativo a su ruta.
 y lleva un width de 50 px.
+
+Ahora he añadido un CSS.
+con <link rel=stylesheet href=estilosindex.css>
+Y he puesto un background color blanchedalmond en el body para comprobar que funciona.
+
+icono favicon
+(cambio de pagina)
+HTML externo
+
+Optimización de imágenes
+Convertir a webp > Squoosh.app
+Ajustar tamañao al de la web e incluirlo
+Las imágenes que mo se ven en la primera pantalla (sin scroll) añadimos loading= lazy
+Renombramos directorios para que no contengan espacios tildes eñes y usamos guiones medios.
+Revisamos que las imágenes ALT
+Revisamos la ruta correcta a las imágenes
+Creamos directorios (carpetas) para cada subnivel de navegación.
