@@ -34,3 +34,4 @@ Renombramos directorios para que no contengan espacios tildes eñes y usamos gui
 Revisamos que las imágenes ALT
 Revisamos la ruta correcta a las imágenes
 Creamos directorios (carpetas) para cada subnivel de navegación.
+He revisado que las urls tengan contenido que este relacionado con el tema
