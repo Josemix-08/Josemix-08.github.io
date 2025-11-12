@@ -35,4 +35,4 @@ Revisamos que las imágenes ALT
 Revisamos la ruta correcta a las imágenes
 Creamos directorios (carpetas) para cada subnivel de navegación.
 He revisado que las urls tengan contenido que este relacionado con el tema
-link rel Canonical ( agregar en todas las paginas).
+link rel Canonical ( agregar en todas las paginas)
