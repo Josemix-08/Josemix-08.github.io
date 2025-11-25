@@ -36,3 +36,19 @@ Revisamos la ruta correcta a las imágenes
 Creamos directorios (carpetas) para cada subnivel de navegación.
 He revisado que las urls tengan contenido que este relacionado con el tema
 link rel Canonical ( agregar en todas las paginas)
+
+de que tipo es la pagina, investigacion(pantallazo)
+he decicido que mispalabras de cola corta y decola larga son:
+...
+como he indexado(proceso)
+darse de alta indexar rechazada.
+ correo. site:mipagina
+ google search console rendimiento enlaces (panatallazo al principio
+ metadatos que he añadido favicon (redes sociales metadatos).
+ sitemap el robot, enlaces, estructura imagenes webp URLs enlaces a compañeros .usar guiones? palabras clave
+  lighthouse f12 ver rendimiento.transformap a webp eso mejora el rendimiento. decir la pagina para conversiones.
+ organizar por semanas 
+ no usar chat gpt?
+ link rel canonical 
+ protip: en el pdf viene
+  )
