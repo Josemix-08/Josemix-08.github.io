@@ -48,3 +48,6 @@ img:nth-of-type(6){
     top: 350px;
     left: 1340px;
 }
+h3{
+    visibility: hidden;
+}
