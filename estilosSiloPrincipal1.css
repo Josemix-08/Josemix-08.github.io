@@ -2,6 +2,7 @@ body {background-image: url("imagenes/silo/siloprincipal.jpg");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
+
 }
 *{
     color: white;
@@ -18,17 +19,32 @@ img:nth-of-type(1){
     left: 20px;
 }
 
+img:nth-of-type(1):hover{
+    
+    border: 10px solid black;
+
+}
+
 img:nth-of-type(2){
     width: 300px;
     height: 300px;
     top: 20px;
     left: 500px;
 }
+img:nth-of-type(2):hover{
+    border: 10px solid black;
+
+}
+
 img:nth-of-type(3){
     width: 300px;
     height: 300px;
     top: 20px;
     left: 900px;
+}
+img:nth-of-type(3):hover{
+    border: 10px solid black;
+
 }
 img:nth-of-type(4){
     width: 300px;
@@ -36,11 +52,20 @@ img:nth-of-type(4){
     top: 20px;
     left: 1350px;
 }
+img:nth-of-type(4):hover{
+    border: 10px solid black;
+
+}
+
 img:nth-of-type(5){
     width: 300px;
     height: 300px;
     top: 350px;
     left: 20px;
+}
+img:nth-of-type(5):hover{
+    border: 10px solid black;
+
 }
 img:nth-of-type(6){
     width: 300px;
@@ -48,6 +73,10 @@ img:nth-of-type(6){
     top: 350px;
     left: 1340px;
 }
+img:nth-of-type(6):hover{
+    border: 10px solid black;
+
+}   
 h3{
     visibility: hidden;
 }
