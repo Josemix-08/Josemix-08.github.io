@@ -51,4 +51,27 @@ darse de alta indexar rechazada.
  no usar chat gpt?
  link rel canonical 
  protip: en el pdf viene
+
+
+
+
+
+ trimestre2
+ semana 1 (12 enero)
+ nos explican nuevo temario y como hacer un silo(no nos suben el temario por lo tanto no podemos hacernada esa seaman
+ seman2
+ realizamos los silos en clase a mas de uno se le atasca hago mi silo basando me en el tema princiapl de lapagina pero no es la mejor opcion para hacer el silo entonces.
+ rehago el silo desde cero en un enlace nuevo que parte desde la pagina principal a otra pagina.
+ tambien nos explican las migas de pna y lo hacemos.
+
+ semana 3
+  profundizamos en el silo y termninamos las migas depan y nos introducen el json que debmos tener entodas lapaginas de silo.
+  tambien usando una herramientadel google searcho console.
+
+  semana 4
+tenemos el json hecho y nos enseñan a suar flex para optimizar lapagina por si un ususario minimiza o encoge laventana que los elementos se puedan segui viendo.
+
+actualizado 4/2/2026
+
+
   )
