@@ -68,8 +68,26 @@ darse de alta indexar rechazada.
   profundizamos en el silo y termninamos las migas depan y nos introducen el json que debmos tener entodas lapaginas de silo.
   tambien usando una herramientadel google searcho console.
 
-  semana 4
+  semana 4(2feb)
 tenemos el json hecho y nos enseñan a suar flex para optimizar lapagina por si un ususario minimiza o encoge laventana que los elementos se puedan segui viendo.
+
+semana 5
+hemos continuado viendo como usar flex..
+flex wrap flex-direction, justifi content align contrnt etc.
+
+semana 6 
+hemos visto mas propiedades de flex y hecho varios ejercicios
+
+semana 7
+hemos visto lod media query para ajustar los tamaños de la pagina al tamaño de la pantalla del dispositivo incluyendo dispositivos móviles.
+
+semana 8 
+hemos repasado media query y fle en conjunto para que creen un efecto de cambiar los elementos y el diseño del al pagina dependiendo del dispositivo del que la ve.
+
+semana 9 examen
+
+semana 10 actual
+
 
 actualizado 4/2/2026
 
