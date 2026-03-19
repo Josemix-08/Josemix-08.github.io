@@ -3,10 +3,12 @@ body{background-color: rgb(40, 69, 68);
     background-size: cover;
     background-attachment: fixed;
     background-repeat:no-repeat ;
+    margin: 0;
 }
-h1{text-decoration: underline red dashed;
+h1{text-decoration: underline white wavy;
     text-align: center;
-    font-size: 35px;
+    font-size: 50px;
+    font-family: "Splash";
    
 
 }
@@ -29,4 +31,13 @@ audio{
     display: block;
     text-align: center;
     
+}
+ol:nth-of-type(1){
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    
+}
+h2{
+    background-color: black;
 }
