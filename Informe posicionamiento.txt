@@ -87,7 +87,16 @@ hemos repasado media query y fle en conjunto para que creen un efecto de cambiar
 semana 9 examen
 
 semana 10 actual
+he usado flex para crear una navegación con una lista la cual lleva a partes diferentes de mi web.
+he sustituido algunos valores en pixeles de mi web para que el ta,año vaya en porcentaje ya que necesito crear una media query que adapte mi pagina para dispositivos moviles.
 
+Le he agregado un tamaño a algunos elementos que no tenian para que el diseño responsive que estoy creando funcione.
+con todo ya realizado he acabado creando una media query para que el diseño del apagina junto con todo el tamaño listas y elementos cambie para que sea visible en pantallas pequeñas.
+le he puesto un max width de 768.
+Si veo que funciona bien lo dejo asi, sino pudo agregar mas media query.
+he cambiado la fuente del titulo he cambiado el subrayado y eliminado contenedores vacios
+tengo introducidos las migas de pan en el silo con su javascript (JSON) en las paginas de dentro del silo.
+El segundo java script lo tengo introducido tambien en la pagina principal.
 
 actualizado 4/2/2026
 
