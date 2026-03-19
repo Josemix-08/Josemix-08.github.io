@@ -56,7 +56,7 @@ darse de alta indexar rechazada.
 
 
 
- trimestre2
+ trimestre2 
  semana 1 (12 enero)
  nos explican nuevo temario y como hacer un silo(no nos suben el temario por lo tanto no podemos hacernada esa seaman
  seman2
@@ -91,75 +91,3 @@ semana 10 actual
 
 actualizado 4/2/2026
 
-
-#script de usuarios (tarea)
-#!/bin/bash
-
-# --- Usuarios ---
-usuarios=(
-Oboe
-Clarinete
-Flauta
-Guitarra
-Corno
-Cello
-Contrabajo
-Sistro
-Timbal
-Conductor
-)
-
-# --- Grupos ---
-grupos=(
-Cuerda
-Viento_metal
-Viento_madera
-Percusion
-Conductor
-Orquesta
-)
-
-# Crear grupos si no existen
-for grupo in "${grupos[@]}"; do
-    if ! getent group "$grupo" > /dev/null; then
-        groupadd "$grupo"
-        echo "Grupo $grupo creado"
-    else
-        echo "Grupo $grupo ya existe"
-    fi
-done
-
-# Crear usuarios si no existen
-for usuario in "${usuarios[@]}"; do
-    if ! id "$usuario" &>/dev/null; then
-        useradd -m "$usuario"
-        echo "Usuario $usuario creado"
-    else
-        echo "Usuario $usuario ya existe"
-    fi
-done
-
-# --- Asignar usuarios a grupos específicos ---
-
-usermod -aG Cuerda Guitarra
-usermod -aG Cuerda Cello
-usermod -aG Cuerda Contrabajo
-
-usermod -aG Viento_metal Corno
-usermod -aG Viento_metal Flauta
-
-usermod -aG Viento_madera Oboe
-usermod -aG Viento_madera Clarinete
-
-usermod -aG Percusion Sistro
-usermod -aG Percusion Timbal
-
-usermod -aG Conductor Conductor
-
-# Añadir todos al grupo Orquesta
-for usuario in "${usuarios[@]}"; do
-    usermod -aG Orquesta "$usuario"
-done
-
-echo "Configuración de la orquesta completada."
-  )
