@@ -98,5 +98,6 @@ he cambiado la fuente del titulo he cambiado el subrayado y eliminado contenedor
 tengo introducidos las migas de pan en el silo con su javascript (JSON) en las paginas de dentro del silo.
 El segundo java script lo tengo introducido tambien en la pagina principal.
 
+
 actualizado 4/2/2026
 
