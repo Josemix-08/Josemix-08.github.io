@@ -62,17 +62,19 @@ ol:nth-of-type(1) {
     padding: 10px;
     border-radius: 10px;
     list-style: none;
+    
 }
 
 ol a {
     text-decoration: none;
     color: cyan;
     font-weight: bold;
-    transition: 0.5s;
+    transition: 0.7s;
 }
 
 ol a:hover {
     color: white;
+    text-decoration: underline cyan;
 }
 h2 {
     
