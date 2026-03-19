@@ -98,6 +98,12 @@ he cambiado la fuente del titulo he cambiado el subrayado y eliminado contenedor
 tengo introducidos las migas de pan en el silo con su javascript (JSON) en las paginas de dentro del silo.
 El segundo java script lo tengo introducido tambien en la pagina principal.
 
+ultima ctualizacion
+he mejorado visualmente la pagina porque llevaba con el mismo diseño desde el año pasado y pensé en utilizar todo lo aprendido.
+he utilizado backround color black con un opacity de 0,5 en todos los h2 y en el article.
+y en el tanto como en el article como en el h2 he utilizado un box shadow para que los bordes se vean mejor
+también he añadido una pequeña transicion para los enlaces en la navegación 
+haciendo que dure 0,5 s y camnie el color a blanco al pasar el ratón.
 
 actualizado 4/2/2026
 
