@@ -45,22 +45,36 @@ h2{
     
     
 }
+img{
+    width: 100%;
+    height: auto;
+}
 @media (max-width: 768px) { 
     body {
         margin: auto;
         width: 100%;
+       
+
         
         
+        
+    }
+    p{
+        font-size: 80%;
     }
 
    
         
+h1{
+    font-size: 200%;
+}
 
     
     h2{
         display: flex;
         flex-direction: column;
         justify-content: center;
+        font-size: 100%;
     }
     
     img{
