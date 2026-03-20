@@ -82,7 +82,7 @@ semana 7
 hemos visto lod media query para ajustar los tamaños de la pagina al tamaño de la pantalla del dispositivo incluyendo dispositivos móviles.
 
 semana 8 
-hemos repasado media query y fle en conjunto para que creen un efecto de cambiar los elementos y el diseño del al pagina dependiendo del dispositivo del que la ve.
+hemos repasado media query y flex en conjunto para que creen un efecto de cambiar los elementos y el diseño del al pagina dependiendo del dispositivo del que la ve.
 
 semana 9 examen
 
