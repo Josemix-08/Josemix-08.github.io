@@ -37,7 +37,7 @@ p{
 
 article{
     display: flex;
-    justify-content: space-around;
+        justify-content: space-around;
     
 }
 article>img{
@@ -73,8 +73,18 @@ body>p{
     width: 100%;
 }
 img{
-    width: 100%;
+    width: 80%;
     height: auto;
+    margin: auto;
+    
+
 }
+article{
+    margin: 20px;
+    
+    display: flex;
+        justifi
+
+    }
     
 }
