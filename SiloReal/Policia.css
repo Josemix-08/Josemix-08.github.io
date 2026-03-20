@@ -10,9 +10,15 @@ img:nth-of-type(1){
 h1{
     text-align: center;
     color: white;
+    font-size: 35px;
 }
-article:nth-of-type(1){
-    display: inline-block;
+
+
+header{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 p:nth-of-type(1){
@@ -21,9 +27,54 @@ p:nth-of-type(1){
 p:nth-of-type(2){
     visibility: hidden;
 }
+header>img{
+    width: 65%;
+    height: auto;
+}
+p{
+    font-size: 90%;
+}
+
+article{
+    display: flex;
+    justify-content: space-around;
+    
+}
 article>img{
     margin: 10px;
-}
-.a{
 
+        display: flex;
+        justify-content: space-around;
+    }
+
+
+
+
+@media (max-width: 768px) {
+    body {
+        width: 100%;
+        
+        
+        margin: auto;
+
+    }
+p{
+    font-size: 15px;
+
+}
+header>p{
+    margin: 10px;
+    width: 100%;
+    
+}
+
+body>p{
+    margin: 10px;
+    width: 100%;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+    
 }
