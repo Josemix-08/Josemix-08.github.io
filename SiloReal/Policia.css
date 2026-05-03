@@ -15,13 +15,18 @@ h1{
 h2{
     color: white;
 }
-
+header:nth-of-type(1){
+   display:inherit;
+    padding:inherit;
+    
+}
 header{
     padding: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
+
 
 p:nth-of-type(1){
    color: skyblue;
